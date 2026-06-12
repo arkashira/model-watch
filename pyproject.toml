@@ -1,0 +1,11 @@
+[project]
+name = "model-watch"
+version = "0.1.0"
+description = "Model monitoring and deployment tool"
+authors = ["Axentx AI <contact@axentx.com>"]
+dependencies = []
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools]
+packages = ["model_watch"]

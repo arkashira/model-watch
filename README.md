@@ -1,2 +1,9 @@
-# model-watch
-axentx product · Lightweight model observability agent that detects feature drift, prediction distribution shift, and data quality degradation via a single SDK call — no MLOps platform required, runs on free-tier infr
+# Model Watch
+Model monitoring and deployment tool for machine learning systems.
+
+## Features
+- Model deployment configuration generation
+- Data drift detection
+- Instrumentation logging for model inputs/outputs
+
+## Usage
